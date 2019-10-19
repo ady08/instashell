@@ -55,7 +55,7 @@ printf "\e[1;77m\e[45m                          HORAS HITA SUDE!!! \e[0m\n"
 printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.5 Author: Nicoleus Sitorus    \e[0m\n"
 printf "\e[1;77m\e[45m  FACEBOOK : Nicoleus Sitorus \e[0m\n"
 printf "\e[1;77m\e[45m  YOUTUBE  : ady sitorus ady \e[0m\n"
-printf "\e[1;77m\e[45m  MY PLEACE  : SAMOSIR
+printf "\e[1;77m\e[45m  MY PLEACE  : SAMOSIR \e[0m\n"
 printf "\n"
 }
 
