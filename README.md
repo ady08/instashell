@@ -1,15 +1,16 @@
 # instashell
 
 git clone https://github.com/ady08/instashell
-cd instashell
-chmod +x instashell.sh
-service tor start
-sudo ./instashell.sh
-```
 
-### Install requirements (Curl, Tor, Openssl):
+cd instashell
+
+chmod +x instashell.sh
+
+tsudo ./instashell.sh
+```
 
 ```
 chmod +x install.sh
-sudo ./install.sh
+
+tsudo ./install.sh
 ```
